@@ -2,7 +2,7 @@ How To Run Volleyball charecter creation DEMO:
 
 1. Import all files into Unity
 2. go to scenes
-3. open open the Char Maker scene
+3. open open the Maker scene
 4. Create you charecter then hit play
 5. it should then take you into the Volleyball scene were you can play with the ball in a court
 
