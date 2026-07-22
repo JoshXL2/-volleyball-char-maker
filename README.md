@@ -1,3 +1,5 @@
+RSA Brief W refs.pdf is the written work
+
 How To Run Volleyball charecter creation DEMO:
 
 1. Import all files into Unity
